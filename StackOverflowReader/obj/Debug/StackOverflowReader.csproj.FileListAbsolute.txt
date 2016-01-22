@@ -1,0 +1,16 @@
+C:\Users\pso99_000\Documents\C#_Projects\WPF\StackOverflowReader\StackOverflowReader\bin\Debug\StackOverflowReader.exe.config
+C:\Users\pso99_000\Documents\C#_Projects\WPF\StackOverflowReader\StackOverflowReader\bin\Debug\StackOverflowReader.exe
+C:\Users\pso99_000\Documents\C#_Projects\WPF\StackOverflowReader\StackOverflowReader\bin\Debug\StackOverflowReader.pdb
+C:\Users\pso99_000\Documents\C#_Projects\WPF\StackOverflowReader\StackOverflowReader\obj\Debug\MainWindow.g.cs
+C:\Users\pso99_000\Documents\C#_Projects\WPF\StackOverflowReader\StackOverflowReader\obj\Debug\App.g.cs
+C:\Users\pso99_000\Documents\C#_Projects\WPF\StackOverflowReader\StackOverflowReader\obj\Debug\StackOverflowReader_MarkupCompile.cache
+C:\Users\pso99_000\Documents\C#_Projects\WPF\StackOverflowReader\StackOverflowReader\obj\Debug\StackOverflowReader_MarkupCompile.lref
+C:\Users\pso99_000\Documents\C#_Projects\WPF\StackOverflowReader\StackOverflowReader\obj\Debug\MainWindow.baml
+C:\Users\pso99_000\Documents\C#_Projects\WPF\StackOverflowReader\StackOverflowReader\obj\Debug\StackOverflowReader.g.resources
+C:\Users\pso99_000\Documents\C#_Projects\WPF\StackOverflowReader\StackOverflowReader\obj\Debug\StackOverflowReader.Properties.Resources.resources
+C:\Users\pso99_000\Documents\C#_Projects\WPF\StackOverflowReader\StackOverflowReader\obj\Debug\StackOverflowReader.csproj.GenerateResource.Cache
+C:\Users\pso99_000\Documents\C#_Projects\WPF\StackOverflowReader\StackOverflowReader\obj\Debug\StackOverflowReader.exe
+C:\Users\pso99_000\Documents\C#_Projects\WPF\StackOverflowReader\StackOverflowReader\obj\Debug\StackOverflowReader.pdb
+C:\Users\pso99_000\Documents\C#_Projects\WPF\StackOverflowReader\StackOverflowReader\obj\Debug\StackOverflowReader.csprojResolveAssemblyReference.cache
+C:\Users\pso99_000\Documents\C#_Projects\WPF\StackOverflowReader\StackOverflowReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pso99_000\Documents\C#_Projects\WPF\StackOverflowReader\StackOverflowReader\bin\Debug\Newtonsoft.Json.xml
