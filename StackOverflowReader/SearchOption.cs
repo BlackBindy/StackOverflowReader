@@ -9,7 +9,7 @@ namespace StackOverflowReader
 {
     public class SearchOption : INotifyPropertyChanged
     {
-        static String[] dateStringArr = { "Today", "This Week", "This Month", "This Year", "3 Years", "All" };
+        static String[] dateStringArr = { "A Day", "A Week", "A Month", "A Year", "3 Years", "All" };
 
         public String Title { get; set; }
         public String Tag { get; set; }
